@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" id="Layer_1" viewBox="0 0 3967.5 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0018cc;
+      }
+
+      .cls-2 {
+        fill: #0018a3;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: #c587ff;
+      }
+
+      .cls-7, .cls-8 {
+        fill: #6142ff;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        font-family: SarunPro-Medium, 'Sarun Pro';
+        font-weight: 500;
+      }
+
+      .cls-8 {
+        font-family: SarunPro-Heavy, 'Sarun Pro';
+        font-weight: 800;
+      }
+
+      .cls-9 {
+        font-size: 500px;
+      }
+
+      .cls-10 {
+        fill: none;
+        stroke: #0018cc;
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+
+      .cls-6 {
+        letter-spacing: -.09em;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m627.24,528.65l-305.29,176.26v-352.52s305.29,176.26,305.29,176.26Z"/>
+  <path class="cls-2" d="m321.95,352.39v352.52S16.65,528.65,16.65,528.65l305.29-176.26Z"/>
+  <path class="cls-1" d="m605.49,651.31h-34.53s17.27-29.97,17.27-29.97l17.27,29.97Z"/>
+  <polygon class="cls-3" points="321.95 352.39 627.24 528.65 321.95 -.13 321.95 352.39"/>
+  <polygon class="cls-7" points="321.95 352.39 321.95 -.13 16.65 528.65 321.95 352.39"/>
+  <polygon class="cls-7" points="321.94 727.61 16.65 551.35 321.94 1080.13 321.94 727.61"/>
+  <polygon class="cls-3" points="321.95 727.61 321.95 1080.13 627.24 551.35 321.95 727.61"/>
+  <polygon class="cls-2" points="321.95 802.96 182.65 723.61 182.65 647.19 321.94 727.61 321.95 802.96"/>
+  <polygon class="cls-1" points="322.13 802.96 461.42 723.61 461.42 647.19 322.13 727.61 322.13 802.96"/>
+  <line class="cls-10" x1="587.98" x2="587.92" y1="539.95" y2="619.57"/>
+  <circle class="cls-1" cx="588.11" cy="619.15" r="13.78"/>
+  <text class="cls-9" transform="translate(651.83 712.62)">
+    <tspan class="cls-5" x="0" y="0">EDU</tspan>
+    <tspan class="cls-4" x="1144.78" y="0">C</tspan>
+    <tspan class="cls-6" x="1488.04" y="0">A</tspan>
+    <tspan class="cls-5" x="1827.88" y="0">T</tspan>
+    <tspan class="cls-8" x="2158.69" y="0">ETH</tspan>
+  </text>
+</svg>
