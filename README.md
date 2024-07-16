@@ -1,4 +1,6 @@
 # Actividad-Final
+VITE_PROJECT_ID=3e4f3e8efc4454e347965f169878d165
+CONTRACT=0x2593caB8d6eBddc871d1455C94bfA96DE79Cf3b2
 
 Este repositorio contiene el código de una clase sobre cómo integrar smart contracts con el frontend utilizando las tecnologías [Wagmi](https://wagmi.sh/react/getting-started), [Viem](https://viem.sh/docs/getting-started), [Rainbowkit](https://www.rainbowkit.com/docs/installation) y [React](https://react.dev/learn). Aquí aprenderás a conectar tu aplicación web con la blockchain de manera eficiente y segura.
 
